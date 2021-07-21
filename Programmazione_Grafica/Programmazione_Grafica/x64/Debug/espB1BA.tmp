@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>992</LINE>
+      <COLUMN>30</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad2</FUNCTION>
+    <DECORATED>?stbi__malloc_mad2@@YAPEAXHHH@Z</DECORATED>
+    <FUNCLINE>989</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>992</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad2</FUNCTION>
+    <DECORATED>?stbi__malloc_mad2@@YAPEAXHHH@Z</DECORATED>
+    <FUNCLINE>989</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>999</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad3</FUNCTION>
+    <DECORATED>?stbi__malloc_mad3@@YAPEAXHHHH@Z</DECORATED>
+    <FUNCLINE>996</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>999</LINE>
+      <COLUMN>30</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad3</FUNCTION>
+    <DECORATED>?stbi__malloc_mad3@@YAPEAXHHHH@Z</DECORATED>
+    <FUNCLINE>996</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>999</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad3</FUNCTION>
+    <DECORATED>?stbi__malloc_mad3@@YAPEAXHHHH@Z</DECORATED>
+    <FUNCLINE>996</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1006</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad4</FUNCTION>
+    <DECORATED>?stbi__malloc_mad4@@YAPEAXHHHHH@Z</DECORATED>
+    <FUNCLINE>1003</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1006</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad4</FUNCTION>
+    <DECORATED>?stbi__malloc_mad4@@YAPEAXHHHHH@Z</DECORATED>
+    <FUNCLINE>1003</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1006</LINE>
+      <COLUMN>30</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad4</FUNCTION>
+    <DECORATED>?stbi__malloc_mad4@@YAPEAXHHHHH@Z</DECORATED>
+    <FUNCLINE>1003</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1006</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__malloc_mad4</FUNCTION>
+    <DECORATED>?stbi__malloc_mad4@@YAPEAXHHHHH@Z</DECORATED>
+    <FUNCLINE>1003</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1130</LINE>
+      <COLUMN>51</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_8_to_16</FUNCTION>
+    <DECORATED>?stbi__convert_8_to_16@@YAPEAGPEAEHHH@Z</DECORATED>
+    <FUNCLINE>1124</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1149</LINE>
+      <COLUMN>41</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__vertical_flip</FUNCTION>
+    <DECORATED>?stbi__vertical_flip@@YAXPEAXHHH@Z</DECORATED>
+    <FUNCLINE>1140</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1149</LINE>
+      <COLUMN>35</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__vertical_flip</FUNCTION>
+    <DECORATED>?stbi__vertical_flip@@YAXPEAXHHH@Z</DECORATED>
+    <FUNCLINE>1140</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1689</LINE>
+      <COLUMN>42</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format</FUNCTION>
+    <DECORATED>?stbi__convert_format@@YAPEAEPEAEHHII@Z</DECORATED>
+    <FUNCLINE>1674</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1689</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format</FUNCTION>
+    <DECORATED>?stbi__convert_format@@YAPEAEPEAEHHII@Z</DECORATED>
+    <FUNCLINE>1674</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1690</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format</FUNCTION>
+    <DECORATED>?stbi__convert_format@@YAPEAEPEAEHHII@Z</DECORATED>
+    <FUNCLINE>1674</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1690</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format</FUNCTION>
+    <DECORATED>?stbi__convert_format@@YAPEAEPEAEHHII@Z</DECORATED>
+    <FUNCLINE>1674</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1739</LINE>
+      <COLUMN>56</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format16</FUNCTION>
+    <DECORATED>?stbi__convert_format16@@YAPEAGPEAGHHII@Z</DECORATED>
+    <FUNCLINE>1731</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1739</LINE>
+      <COLUMN>52</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format16</FUNCTION>
+    <DECORATED>?stbi__convert_format16@@YAPEAGPEAGHHII@Z</DECORATED>
+    <FUNCLINE>1731</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1739</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format16</FUNCTION>
+    <DECORATED>?stbi__convert_format16@@YAPEAGPEAGHHII@Z</DECORATED>
+    <FUNCLINE>1731</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1746</LINE>
+      <COLUMN>41</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format16</FUNCTION>
+    <DECORATED>?stbi__convert_format16@@YAPEAGPEAGHHII@Z</DECORATED>
+    <FUNCLINE>1731</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1746</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format16</FUNCTION>
+    <DECORATED>?stbi__convert_format16@@YAPEAGPEAGHHII@Z</DECORATED>
+    <FUNCLINE>1731</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1747</LINE>
+      <COLUMN>42</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format16</FUNCTION>
+    <DECORATED>?stbi__convert_format16@@YAPEAGPEAGHHII@Z</DECORATED>
+    <FUNCLINE>1731</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1747</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__convert_format16</FUNCTION>
+    <DECORATED>?stbi__convert_format16@@YAPEAGPEAGHHII@Z</DECORATED>
+    <FUNCLINE>1731</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>1814</LINE>
+      <COLUMN>52</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__hdr_to_ldr</FUNCTION>
+    <DECORATED>?stbi__hdr_to_ldr@@YAPEAEPEAMHHH@Z</DECORATED>
+    <FUNCLINE>1803</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>2941</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__parse_entropy_coded_data</FUNCTION>
+    <DECORATED>?stbi__parse_entropy_coded_data@@YAHPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>2866</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>2974</LINE>
+      <COLUMN>72</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__parse_entropy_coded_data</FUNCTION>
+    <DECORATED>?stbi__parse_entropy_coded_data@@YAHPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>2866</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>2884</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__parse_entropy_coded_data</FUNCTION>
+    <DECORATED>?stbi__parse_entropy_coded_data@@YAHPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>2866</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>2884</LINE>
+      <COLUMN>81</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__parse_entropy_coded_data</FUNCTION>
+    <DECORATED>?stbi__parse_entropy_coded_data@@YAHPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>2866</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>2884</LINE>
+      <COLUMN>93</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__parse_entropy_coded_data</FUNCTION>
+    <DECORATED>?stbi__parse_entropy_coded_data@@YAHPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>2866</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>2913</LINE>
+      <COLUMN>93</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__parse_entropy_coded_data</FUNCTION>
+    <DECORATED>?stbi__parse_entropy_coded_data@@YAHPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>2866</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>3011</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__jpeg_finish</FUNCTION>
+    <DECORATED>?stbi__jpeg_finish@@YAXPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>3001</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>3013</LINE>
+      <COLUMN>85</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__jpeg_finish</FUNCTION>
+    <DECORATED>?stbi__jpeg_finish@@YAXPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>3001</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>3013</LINE>
+      <COLUMN>81</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__jpeg_finish</FUNCTION>
+    <DECORATED>?stbi__jpeg_finish@@YAXPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>3001</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>3013</LINE>
+      <COLUMN>93</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__jpeg_finish</FUNCTION>
+    <DECORATED>?stbi__jpeg_finish@@YAXPEAUstbi__jpeg@@@Z</DECORATED>
+    <FUNCLINE>3001</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>3486</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>stbi__resample_row_hv_2_simd</FUNCTION>
+    <DECORATED>?stbi__resample_row_hv_2_simd@@YAPEAEPEAE00HH@Z</DECORATED>
+    <FUNCLINE>3429</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>3918</LINE>
+      <COLUMN>65</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'y'. </DESCRIPTION>
+    <FUNCTION>load_jpeg_image</FUNCTION>
+    <DECORATED>?load_jpeg_image@@YAPEAEPEAUstbi__jpeg@@PEAH11H@Z</DECORATED>
+    <FUNCLINE>3764</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3766</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3766</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3766</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3767</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\david\Desktop\Programmazione Grafica\Include\stb\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3770</LINE>
+ 
